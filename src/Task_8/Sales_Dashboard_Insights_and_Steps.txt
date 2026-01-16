@@ -1,0 +1,19 @@
+
+📊 Sales Dashboard Insights (Superstore Sample Data)
+
+1. Sales peaked in April 2019, indicating a potential seasonal or promotional trend.
+2. The West region recorded the highest total sales, making it the top-performing region.
+3. Technology was the most profitable category in terms of total sales.
+4. South region showed moderate performance, with potential for targeted improvements.
+
+🧭 Steps Followed to Create the Dashboard
+
+1. Imported Superstore_Sales.csv data into Power BI.
+2. Converted 'Order Date' to Month-Year format using DAX formula.
+3. Created the following visuals:
+   - Line Chart: Sales over Month-Year
+   - Bar Chart: Sales by Region
+   - Donut Chart: Sales by Category
+4. Added a slicer for Region to allow dynamic filtering.
+5. Applied color formatting to highlight top-performing areas.
+6. Exported dashboard visuals into a PDF.
